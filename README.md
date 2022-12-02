@@ -16,7 +16,7 @@ sudo apt install \
     libxmlsec1-dev \
     llvm \
     make \
-    tk-dev \
     wget \
     xz-utils \
     zlib1g-dev
+sudo apt install python-tk python3-tk tk-dev
